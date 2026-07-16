@@ -3,3 +3,4 @@
 
 Так же жополнительно
 Бот для путешествий: https://github.com/KniveBot/TG-Bot-Travel.git
+Мобильное приложение: https://github.com/KniveBot/StudyForCleaners.git
