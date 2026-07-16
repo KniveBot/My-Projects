@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "denta-bot-list",
+  "private_key_id": "ce31a3cde31fd4100f8cd27893c516410a707549",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDS2y5HT4jSO+H6\nqmuPHeVAk/Gaql8pw0B5uhmKPj+oQqxtEGRspUapddSQVk4S6iiQ+UzEzQaZ8fob\nhC3EuvCyKpKZaAnIwRAK+CLidgu0ElS2TwGehyIFJ2mK6cVZYOMwPOR+oyaRPl6u\ncEereMdQLwOC1V54G0ADvA/K6E0XHi4lB24X3FoKoACPGSIJbBNjQaReOW9ZsGX9\nQviUP6211GWwzAnf0kUuYTrieDIjF9LgkONatBuK2XqIiT93NJgYHZgRZMd80KSE\nP5E8pFPXSLH9qglMWXAwLsPvcqYhbBxIxJhrIGKyBx3SYkvsEkDoKza8fmC2YX/F\nNCBT/jgbAgMBAAECggEANwczjzG/C9rL8X6rXmjXbSCPE6W1+zC1MW9zfeQb+d4Y\noMf/5WjGxa/2HwsfCgmpN5iQQ+Yb/G4tryOyTB7bdSvuIXII56cW+D3k4MQc7sw/\n5mo9CnHK25x7C2FR+y7xa6Pgn/oVNR+ZVx3/Xk1BevgiCvGDW4YFEVRxrKsuf0MM\nAbYIiLR96Uj9yBHf/qjggyQkkQ/aWOx8gg1EVfhhoimEP55Dhj7eMQiUOnVboRh/\nGDj/Fo9QuZo0UcIqQPwdTv4my2KKTpNWdGbhSCF8ODR0JPSERLV7XOXIprAB9IW4\nWv8HBbzqlvFd0PJP2JJlkCnemw1My/1y+VNe7IXueQKBgQD55PGD6f5mg7ShA6fo\ni68R1Z4eSaq7ajTx6dvmXgYNcswG17ef73ae18zUL/JjXef+6nFJ4P8LsqBysIj5\nc/4qGcPde8xoJ8PcIrhs1lR7qumk4gqmC2EMIn5HxKP6dc5VoH/p32cEJWT44sah\nRNGYz97764uvKQ9NJhBbfm6GgwKBgQDYAg8SI6xxohorMbsmKOz/VnkWVBL1c9JV\nna9f0NaReR3A0Sd3L2dPf0IB7yumAaWe8zX6oytTK6lINJWAUSTWlhI3ZFbH9Ga+\n4WCAFYjjeJlj2sPiEltsbBaldL7PZ8H0avRye+OiGcWdJPN2dnRJIadRsgxyn52L\nsLbQtnIUiQKBgEo6ak8f03SKDL6DQn399/vZM0WV5kQTUTTGnY45QZz/C4HA1AeK\n7vZR7cLdlydS/pWm+A3U6o2D+sr2i0ll3gqNarPAkUAjB7e9DIEvzRqK8yoKBtW5\nrZMYL+CLlZXRJoAi07wZoxUFMpAHdK70rTmyDW9RUUWvcZ8d/l/fF1+XAoGBAIFi\nIlLUKVtbJF+RBy9hPivnSNo1+7En8em0bLJwrcUvDcJLxV7fdvsoF4p/Dt79h43A\n0ilRiQblVR1Z2d6lO/KIq1qgcFaOruhQqPOvcnIF76LfC4ujQT2dNKdgWVZ0KLnV\nQpw8Vunmk/Z/hpEDfL29ObJ2enxB3SUp8Sbs0UI5AoGAcDxuaVlbMYJbY1qyhH1K\n3X7hQ7n0wxxyR1bpxdChapyviyhuPWvcnGSXEsdoqtghodi70dD5MtR4nHb5Eosp\ngWdXh1m/86bF1Z+1+8nzwWlHT4tz84M7+ApvJz5+7qVmVwfAkyOoIC3GdzDaNSlo\nj7IHhVytYIYiCOr+O9qURFs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dentabot@denta-bot-list.iam.gserviceaccount.com",
+  "client_id": "111068255987241444512",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dentabot%40denta-bot-list.iam.gserviceaccount.com"
+}
